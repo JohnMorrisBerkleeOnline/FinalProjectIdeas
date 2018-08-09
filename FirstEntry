@@ -1,0 +1,33 @@
+For my final project, I would like to create a database for storing songs in my setlist. I would like them to be categorized in several ways- style, key, artist, and alphabetical. I will do this using a table. I think it would also be cool to assign each style a different color.
+
+
+Ballad-Purple
+
+Waltz-Blue
+
+Straight-Green
+
+Swing-Red
+
+Shuffle-Orange
+
+
+COMPONENTS:
+
+
+Title
+
+Table
+
+Field for song name
+
+Field for artist
+
+Field for style
+
+Field for key
+
+
+Button to submit each entry
+
+(Display updates as entries are made)
